@@ -31,6 +31,8 @@
 
 👅 pkg install git
 
+👅 rm -rf BITUL_FREE
+
 👅 git clone https://github.com/bitulvau/BITUL_FREE.git
 
 👅 cd BITUL_FREE
